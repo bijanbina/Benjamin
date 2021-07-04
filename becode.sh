@@ -38,3 +38,4 @@ if [[ "$1" != "clean" ]]; then
 fi
 	#lattice-best-path --word-symbol-table=$WORD_TABLE ark:$LATTICE ark,t:$RESULT
 	
+
